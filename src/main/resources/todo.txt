@@ -1,0 +1,108 @@
+Ranks:
+Clans:
+FFA:
+Lobby:
+AdminGUI: Management of the Staff Members
+ - Helper
+ - Designer
+ - Moderator
+ - SrModerator
+ - Developer
+ - Admin
+ - Manager
+ - Owner
+
+Holograms:
+ - Lobby
+ - FFA Lobby
+ - KitPvP Lobby
+
+MemeMode:
+Permissions:
+World-Edit:
+HelpCommand:
+ChunkReader:
+LaggRemover:
+CPU-Booster:
+RAM-OPTIMIZING:
+
+Custom-Commands:
+Custom Permissions:
+Custom Support Team:
+
+Ingame-Applications:
+Ingame-Reports
+
+PunishmentGUI
+CustomBanScreen
+
+Databases:
+MongoDB:
+SQLite:
+MYSQL:
+MariaDB
+
+Staff:
+Staff-Chat:
+Staff-Report:
+Staff-Rank-Grants
+Staff-Broadcast:
+Staff-Emotes
+Staff-Rank-Emotes
+
+
+Custom-MOTD:
+
+Ultimate-AntiCheat: Detects hacker and ban them with his ban core :)
+Alt-Checker
+Protection:
+
+
+Feature-List:
+
+
+BedWars:
+Skywars:
+Eggwars:
+Kix:
+
+Server-Books:
+
+Appeal-Website:
+Auto-Restarter: When the TPS goes under the 10 the server restarts and try to resolve it by him self.
+
+2FA-Verify: Staff Members has to set up a 2FA authenticator!!!!
+
+Discord Integration:
+
+Gun-Game:
+
+Daily-Quests:
+Player-Options:
+Scoreboard:
+
+Level-System:
+ScreenShare-Tool:
+
+Tournaments: Weekly
+
+Staff-Login: Website
+Web-Portal: Website
+Maintenance:
+Lobby-Events:
+
+
+Party-Friends: System
+
+Every-Language:
+
+Data-Storage:
+
+Anti-Spam:
+
+Server-Management: You can manage the server with the GUI
+
+Staff-Join-Messages:
+
+Whitelisted: On / Off
+
